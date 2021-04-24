@@ -1,4 +1,4 @@
-👋 Hi, I’m @jugrant-deloitte.  This is my [Deloitte](https://www.deloitte.com) profile.  My personal profile is @jlgrock.  
+👋 Hi, I’m @jugrant-deloitte.  This is my [Deloitte](https://www.deloitte.com) profile.  My personal profile is [@jlgrock](https://github.com/jlgrock).  
 
 I am a Deloitte Certified Senior Architect and enjoy being hands-on-keyboard.  I work to build community and solve hard technical problems.
 
